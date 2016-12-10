@@ -5,8 +5,8 @@ window.onload = function() {
 
 	function preload() {
 
-	    game.load.tilemap('map', '../assets/tilemap/maze.json', null, Phaser.Tilemap.TILED_JSON);
-	    game.load.image('tiles', '../assets/tilemap/tiles.png');
+	    game.load.tilemap('map', 'assets/tilemap/maze.json', null, Phaser.Tilemap.TILED_JSON);
+	    game.load.image('tiles', 'assets/tilemap/tiles.png');
 
 	}
 
