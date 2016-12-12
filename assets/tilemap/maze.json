@@ -40,29 +40,6 @@
  "tilesets":[
         {
          "columns":28,
-         "firstgid":1,
-         "image":"tilemap.png",
-         "imageheight":296,
-         "imagewidth":448,
-         "margin":0,
-         "name":"tiles",
-         "spacing":0,
-         "terrains":[
-                {
-                 "name":"New Terrain",
-                 "tile":-1
-                }],
-         "tilecount":504,
-         "tileheight":16,
-         "tileoffset":
-            {
-             "x":1,
-             "y":1
-            },
-         "tilewidth":16
-        },
-        {
-         "columns":28,
          "firstgid":505,
          "image":"tilemap.png",
          "imageheight":296,
