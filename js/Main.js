@@ -12,7 +12,7 @@ window.onload = function() {
 
 	function create() {
 	    map = game.add.tilemap('map');
-	    map.addTilesetImage('tilemap', 'tiles');
+	    map.addTilesetImage('tilemap.png', 'tiles');
 	    layer = map.createLayer('Walls');
 	    layer.resizeWorld();
 	}
